@@ -1,142 +1,57 @@
-John Doe
-Software Engineer
-📍 123 Tech Street, San Francisco, CA 94107
-☎️ (123) 456-7890
-✉️ john.doe@email.com
-LinkedIn | GitHub
-Visa Status: Full working rights in the US without Visa sponsorship
+CURRICULUM VITAE
+•	Full name: Zaw Zaw Aung 
+•	Email address: mr.zaw2ag@gmail.com 
 
-Professional Summary
-Innovative and results-driven Software Engineer with 5+ years of experience in developing and delivering high-quality web and mobile applications. Adept at full-stack development, cloud computing, and DevOps practices, with a proven ability to lead cross-functional teams in Agile environments. Passionate about building scalable and efficient solutions that solve real-world problems and enhance user experiences. Recognized for excellent problem-solving skills and a commitment to continuous learning.
+ACADEMIC RECORD
+Name of institution	Degree obtained 	Study (from–to)	Medium of instruction 
+Mahidol University, Bangkok, Thailand	MPH
+Master of Public Health	June 2022 to July 2023	English
+University of Medicine, Mandalay, Myanmar 	MBBS 
+(Bachelor of Medicine &
+Bachelor of Surgery)	Dec 2010 to June 2017	English
 
-Technical Skills
+WORK EXPERIENCE DETAILS
+•	Position held and Name of organisation: Program Officer, Clinton Health Access Initiatives 
+•	Period of work: August 2023 to April 2024
+•	Brief description of major responsibilities 
+Provide technical and operational support to National Hepatitis Control Program (NHCP) and The Drug Dependency Treatment and Research Unit (DDTRU) in Myanmar to strengthen and scale hepatitis and OST services across the country, in line with WHO guidance; and optimizing current strategies and developing and executing new strategies focused on the successful prevention, treatment and care.
 
-    Programming Languages: Python, JavaScript, TypeScript, Java, C++, SQL, Go
+•	Position held and Name of organisation: Project Manager, World Concern
+•	Period of work: March 2021 to Feb 2022
+•	Brief description of major responsibilities
+Project cycle management of health and nutrition programs by consortium partnership with three local partners who are implementing multi-sectoral approaches of nutrition, WASH and agriculture with gender mainstreaming and disability inclusion in internally displaced persons (IDP) camps to ensure achieving implementation goals as per project plan.
 
-    Frameworks & Libraries: React, Angular, Node.js, Express.js, Django, Flask, Spring Boot
-
-    DevOps & Cloud: AWS (EC2, S3, Lambda, RDS), Azure, Docker, Kubernetes, Terraform, CI/CD pipelines
-
-    Databases: MySQL, PostgreSQL, MongoDB, Redis
-
-    Tools & Platforms: Git, JIRA, Jenkins, VS Code, IntelliJ IDEA, Elasticsearch, Prometheus
-
-Professional Experience
-
-Senior Software Engineer
-NextGen Tech Solutions — San Francisco, CA
-March 2022 – Present
-
-    Architected and developed scalable microservices, improving application performance by 40%.
-
-    Designed and implemented GraphQL APIs to enhance data query efficiency and flexibility.
-
-    Migrated on-premises applications to AWS, leveraging cloud-native solutions to reduce operational costs by 25%.
-
-    Led a team of five developers to successfully deliver a cross-platform mobile application for a high-profile client.
-
-    Conducted technical interviews and mentored junior engineers to foster team growth.
-
-Key Achievements:
-
-    Reduced system downtime by implementing proactive monitoring tools and incident response workflows.
-
-    Received the "Innovator of the Year" award for introducing a predictive analytics feature that boosted customer retention.
-
-Software Engineer
-Tech Innovations Inc. — San Francisco, CA
-March 2020 – February 2022
-
-    Developed and maintained full-stack applications, enhancing system performance by 30%.
-
-    Integrated third-party APIs, including payment gateways and geolocation services, to expand application capabilities.
-
-    Led the migration of legacy systems to microservices, reducing deployment time by 40%.
-
-    Collaborated with designers and product managers to deliver user-focused solutions.
-
-Key Achievements:
-
-    Spearheaded the creation of a real-time analytics dashboard, increasing user engagement by 25%.
-
-    Named "Employee of the Quarter" for exceptional contributions to critical project launches.
-
-Junior Software Developer
-Innovate Solutions — Palo Alto, CA
-July 2018 – February 2020
-
-    Assisted in developing responsive web applications using React and Node.js.
-
-    Conducted code reviews and implemented unit testing frameworks, reducing bugs by 20%.
-
-    Optimized database queries and contributed to schema design for improved performance.
-
-Key Achievements:
-
-    Reduced system downtime by 15% through proactive monitoring and efficient issue resolution.
-
-Education
-Bachelor of Science in Computer Science
-University of California, Berkeley — Graduated: May 2018
-
-    Relevant Coursework: Data Structures & Algorithms, Software Engineering, Cloud Computing, Artificial Intelligence
-
-    GPA: 3.8
-
-Certifications
-
-    AWS Certified Solutions Architect – Associate
-
-    Certified Kubernetes Administrator (CKA)
-
-    React.js Developer Certification
-
-    Advanced Java Programming Certification
-
-Projects
-
-    E-Commerce Platform (GitHub)
-    Built a full-stack e-commerce website featuring real-time product filtering, user authentication, and payment integration.
-
-    Task Management App (GitHub)
-    Developed a collaborative task management app with React front-end and Node.js back-end.
-
-    Real-Time Chat Application
-    Designed a secure and scalable chat application using WebSocket and Firebase, enabling real-time communication for users.
-
-    IoT Home Automation System
-    Created an IoT-based system to monitor and control home appliances using Python and Raspberry Pi.
-
-Languages
-
-    English: Native
-
-    Spanish: Proficient
-
-    French: Intermediate
-
-    Mandarin: Beginner
-
-Hobbies & Interests
-
-    Contributing to open-source projects
-
-    Exploring AI and machine learning innovations
-
-    Mentoring aspiring developers
-
-    Hiking and outdoor photography
-
-    Playing chess and participating in local tournaments
-
-Awards & Recognitions
-
-    Innovator of the Year – NextGen Tech Solutions (2023)
-
-    Employee of the Quarter – Tech Innovations Inc. (2021)
-
-    Winner – Bay Area Hackathon (2019): Created a predictive analytics tool for the healthcare industry.
-
-    Dean’s Honor List – University of California, Berkeley (2017 & 2018)
+•	Position held, Name of organisation: Program Manager, Médecins du Monde
+•	Period of work: May 2019 to Dec 2020
+•	Brief description of major responsibilities
+	As a leader in planning, implementation, monitoring and evaluation of integrated simplified community-based HIV/viral hepatitis C project as well as viral hepatitis B vaccination project, in collaborated with Médecins Sans Frontières-Swiss (MSF) in Kachin State of Myanmar. The project aims to reduce hepatitis C related morbidity and mortality among drug users by treatment and care, prevention, community mobilization and advocacy approaches.
 
 
+
+•	Position held, Name of organisation: Medical Officer, The International Union Against Tuberculosis and Lung Disease
+•	Period of work: Sept 2018 to May 2019
+•	Brief description of major responsibilities
+Provision of the clinical management of People Living with HIV (PLHIV) and TB patients, including sexual, reproductive, maternal and child and adolescent health, in integrated care approach.
+
+•	Position held, Name of organisation: Sub-investigator, Myanmar Liver Foundation
+•	Period of work: Oct 2017 to Sept 2018
+•	Brief description of major responsibilities
+To run a liver disease clinic by providing clinical consultation of study participants during study visit and to supervise and support the study staffs (case manager, counsellor, lab technician and pharmacist) to ensure that all quality health care services are provided to the beneficiaries. 
+RESEARCH EXPERIENCES
+•	2022-2023: Thesis paper for MPH degree- Using Health Belief Model to predict the uptake of hepatitis C screening tests among PWID in Myitkyina, Kachin State of Myanmar 
+•	2017-2018: Sub-investigator in the demonstration project on assessment of simplified antiviral treatment strategy for hepatitis C in Myanmar https://classic.clinicaltrials.gov/ct2/show/NCT03579576
+TRAININGS
+•	2022: Strategic Management, The National University of the Union of Myanmar 
+•	2021: Grant Management, World Concern 
+•	2020: Prevent Tuberculosis: Management of TB infection, The Union 
+•	2019: Clinical Management of HIV, University of Washington 
+•	2017: Clinical Management of Viral Hepatitis B and C, Myanmar Liver Foundation
+•	2017: Certificate of completion in “Protecting Human Research Participants”
+•	2017: Certificate of Good Clinical Practice (GCP), NIDA Clinical Trials Network
+COMMUNICATION AND ADVOCACY WORK
+•	Voices of service providers from Hepatitis C prevention and treatment program, Kachin https://www.facebook.com/watch/?v=234627747529976
+•	Successful Hepatitis C treatment Journey https://www.facebook.com/watch/?v=206668537442430
+•	Find the Missing Millions https://www.facebook.com/watch/?v=529053474460846
+SKILLS
+•	Language – English (IELTS-7), Burmese (mother tongue) and Mandarin Chinese (basic)
+•	Computer- Microsoft packages (excel, word, power point), SPSS software, Endnote.
